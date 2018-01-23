@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MainPageSuite" verbose="1" >
+    <test name="MainPageTest">
+        <classes>
+            <class name="com.mainPackage.MainPageTest">
+
+            </class>
+        </classes>
+    </test>
+    <test name="VacancyPageTest">
+        <classes>
+            <class name="com.mainPackage.VacancyPageTest">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>
